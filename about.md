@@ -17,6 +17,6 @@ send me a shout out and I will try to help in whatever I can.
 I would love to get introduced to you, if you are an experienced
 cryptocurrency trader, investor or a geek into the cryptocurrency world.
 
-You can always contact me on my [Github](http://github.com/nikhgupta)
+You can always contact me on my [Github](http://github.com/coinalgo)
 account for anything tech related, or otherwise, simply email me at:
 me@nikhgupta.com for any work queries.

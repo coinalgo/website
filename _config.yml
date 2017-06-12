@@ -9,7 +9,7 @@ url: http://coinalgo.com
 baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-100850555-1
-repo: http://github.com/nikhgupta/coinalgo
+repo: http://github.com/coinalgo/website
 disqus_shortname: "CoinAlgo"
 twitter_username: "nikhgupta"
 comments: true
@@ -35,7 +35,7 @@ author:
   thumb    : /images/author.jpg
   email    : me@nikhgupta.com
   url      : http://coinalgo.com
-  github   : http://github.com/nikhgupta
+  github   : http://github.com/coinalgo
   twitter  : http://twitter.com/nikhgupta
   facebook : https://www.facebook.com/nikhgupta
   linkedin : http://linkedin.com/in/mestoic
