@@ -1,17 +1,17 @@
 
 # SEO settings
-title: "Think"
-title2: "space" # default: ""
-description: "Just another minimalist Jekyll theme for technical writing."
-keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url: http://heiswayi.github.io/thinkspace # site url
-baseurl: "" # apply repo name if use it under gh-pages branch
-# baseurl: null # apply null if repo name is something like username.github.io
+title: "Coin"
+title2: "Algo" # default: ""
+description: "Quant, data analysis and statistical models to discover better trading or investment strategies for cryptocurrencies."
+keywords: "quant, data analysis, investment, altcoin, bitcoin, cryptocurrency"
+url: http://coinalgo.com
+# baseurl: "" # apply repo name if use it under gh-pages branch
+baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
-repo: http://github.com/heiswayi/thinkspace
-disqus_shortname: "hnbloggithub"
-twitter_username: "HeiswayiNrird"
+repo: http://github.com/nikhgupta/coinalgo
+disqus_shortname: "CoinAlgo"
+twitter_username: "nikhgupta"
 comments: true
 
 # Build settings
@@ -29,21 +29,21 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
-  job      : "Software Engineer"
-  bio      : "1+1=3 is always TRUE in my world, a balance between binary and reality."
+  name     : "Nikhil G."
+  job      : "Cryptocurrency Enthusiast"
+  bio      : "I run data analysis, quant and statistical models on cryptocurrency data to discover better trading or investment strategies."
   thumb    : /images/author.jpg
-  email    : hnrird@gmail.com
-  url      : http://heiswayi.github.io
-  github   : http://github.com/heiswayi
-  twitter  : http://twitter.com/HeiswayiNrird
-  facebook : https://www.facebook.com/heiswayi.nrird
-  linkedin : http://linkedin.com/in/nrird
+  email    : me@nikhgupta.com
+  url      : http://coinalgo.com
+  github   : http://github.com/nikhgupta
+  twitter  : http://twitter.com/nikhgupta
+  facebook : https://www.facebook.com/nikhgupta
+  linkedin : http://linkedin.com/in/mestoic
 
 # social settings
 og_locale: "en_US"
 twitter_card: "summary_large_image"
-twitter_site: "@HeiswayiNrird"
+twitter_site: "@nikhgupta"
 
 gems:
   - bourbon
